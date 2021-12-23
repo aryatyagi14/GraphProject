@@ -1,0 +1,7 @@
+# Directed graph: soc-sign-epinions
+# Epinions signed social network
+# Nodes: 131828 Edges: 841372
+# FromNodeId	ToNodeId	Sign
+0	1	-1
+1	0	-1
+2	1	1
